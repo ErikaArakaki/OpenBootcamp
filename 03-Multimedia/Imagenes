@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Multimedia con HTML</title>
+    </head>
+    <body>
+        <img src="OpenBootcamp_Logo_2.jpg" alt="Logo html" width="300" height="300">
+    </body>
+</html>
