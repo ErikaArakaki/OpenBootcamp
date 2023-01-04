@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+
+    <body>
+        <div>
+            <p>Este es mi primer comentario de dos líneas</p>
+            <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        </div>
+        
+        <div>
+            <h3>Lista desordenada</h3>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=_zDkKfNgido&list=RD_zDkKfNgido&start_radio=1">María Becerra-Adiós</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=cgdyjmUCxPs">Piso 21 & Danny Ocean-Felices Perdidos</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=jchbNbG0gig">Mike Bahía-Dejame</a></li>
+                </ul>
+        </div>
+    </body>
+</html>
