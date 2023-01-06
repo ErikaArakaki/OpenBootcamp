@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.imagen-1{
+    width: 300px;
+}
+
+.imagen-2{
+    width: 300px;
+}
+
+.imagen-3{
+    width: 300px;
+}
+
+.imagen-4{
+    width: 300px;
+}
+
+.imagen-5{
+    width: 300px;
+}
+
+.imagen-6{
+    width: 300px;
+}
